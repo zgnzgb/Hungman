@@ -1,0 +1,26 @@
+[33mcommit 84a71a2404e862e831230c316417881293c1013e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 550cdef 248240e
+Author: zgnzgb <86915765@qq.com>
+Date:   Fri Jan 31 18:10:05 2020 +0800
+
+    Merge branch 'master' of https://github.com/zgnzgb/Hungman
+
+[33mcommit 248240e5c96f876a6eaa1d5f6fd621fa088084d0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: zgnzgb <60504465+zgnzgb@users.noreply.github.com>
+Date:   Fri Jan 31 18:08:49 2020 +0800
+
+    Create new.py
+    
+    test , two
+
+[33mcommit 550cdef34d56738c28379076f442b6f1752782f3[m
+Author: zgnzgb <86915765@qq.com>
+Date:   Fri Jan 31 17:51:07 2020 +0800
+
+    my first commit
+
+[33mcommit 2ac72f9eeeada61a05319fe864e62745debc2eb5[m
+Author: zgnzgb <60504465+zgnzgb@users.noreply.github.com>
+Date:   Fri Jan 31 17:28:25 2020 +0800
+
+    Initial commit
